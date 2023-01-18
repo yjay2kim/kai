@@ -1,2 +1,0 @@
-# kai
-kai tensorflow test 
